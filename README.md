@@ -8,6 +8,15 @@ AUTHOR INFORMATION
 A customer experience executive at Safaricom Plc and also a student at Moringa school
 doing RPA-Robotic process automation course.
 
+TECHNOLOGIES USED
+-Javascript
+-Index.Html
+-css
+
+CONTACT INFORMATION
+email:lucy.zighe@student.moringaschool.com
+LinkedIn:Lucy Zighe
+
 
 
 
