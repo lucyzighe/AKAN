@@ -1,0 +1,2 @@
+# AKAN
+Ghanian naming 
