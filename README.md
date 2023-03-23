@@ -1,2 +1,6 @@
-# AKAN
-Ghanian naming 
+PROJECT NAME
+AKAN
+
+
+
+
